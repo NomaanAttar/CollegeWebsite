@@ -17,7 +17,7 @@ The College Website is designed to provide information about Edusity, including 
 <li>Contact Us: Contact form and college contact details</li>
 <h1>Contributing</h1>
 We welcome contributions to the College Website project! 
-<h1>Contactus</h1>
+<h1>Contact Us</h1>
 For any questions or feedback, please contact:
 <li>Project Maintainer:Nomaan Attar</li>
 <li>Repository URL: https://github.com/NomaanAttar/CollegeWebsite</li>
