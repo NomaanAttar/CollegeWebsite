@@ -1,10 +1,10 @@
 # CollegeWebsite
-Welcome to the repository for the College Website project! This repository contains the code and assets for the official website of [College Name].
+Welcome to the repository for the College Website project! This repository contains the code and assets for the official website of Edusity.
 
 Table of Contents
 <li>Project Overview </li>
 <li>Features </li>
-<li>Contibution</li>
+<li>Contribution</li>
 <li>Contact</li>
 <h1>Project Overview</h1>
 The College Website is designed to provide information about Edusity, including details about programs, faculty, campus, and more. This website aims to enhance the online presence of the college and offer a user-friendly experience for prospective students, current students, and alumni.
